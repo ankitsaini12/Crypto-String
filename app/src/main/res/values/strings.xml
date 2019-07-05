@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crypto String</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
